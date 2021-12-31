@@ -1,0 +1,5 @@
+name: MinecraftKillZone
+version: 1.0 # the plugin's version
+author: Haig Didizian
+main: tech.clearistic.mckillzone.MCKillZone
+api-version: 1.18
